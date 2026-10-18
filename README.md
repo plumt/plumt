@@ -10,7 +10,7 @@ CI/CD와 테스트 같은 반복 업무는 AI가 처리하도록 자동화하는
 ## 링크
 
 - Portfolio: [portfolio.yslee.kr](https://portfolio.yslee.kr)
-- Blog: [velog.io/@dldbstjd3210](https://velog.io/@dldbstjd3210)
+- Blog: [velog.io/@dldbstjd3210](https://velog.yslee.kr)
 - Notion: [app.notion.com/p/3fc3c82d6b3081ae921cd4d3fd596b53](https://app.notion.com/p/3fc3c82d6b3081ae921cd4d3fd596b53)
 
 ## 공개 저장소
